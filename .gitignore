@@ -1,0 +1,13 @@
+# Ignore dataset and preprocessed files
+/datasets/
+/preprocessed_images/
+flickr8k
+kaggle
+
+# Ignore large model weights
+*.h5
+*.npy
+
+# Ignore virtual environments
+myenv/
+.env/
