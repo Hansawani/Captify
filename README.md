@@ -1,4 +1,4 @@
-# CaptifyCaptify: Social Media Caption Generator
+# Captify: Social Media Caption Generator
 Captify is an AI-powered platform designed to generate engaging, creative, and contextually relevant captions for social media images. It leverages state-of-the-art AI models and a robust preprocessing pipeline to provide users with captions enriched with hashtags, emojis, and trendy language, tailored specifically for platforms like Instagram.
 
 Features
