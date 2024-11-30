@@ -33,10 +33,12 @@ Download the dataset from the Kaggle link above.
 Store the zipped dataset (instagram_data.zip) in Google Drive.
 
 Extract and preprocess captions:
+
 ![image](https://github.com/user-attachments/assets/1b4d6a4e-5183-4ea2-9e4e-a5c4a7d5e614)
 
 
 Load the captions file:
+
 ![image](https://github.com/user-attachments/assets/14246967-dde3-4a8c-abe8-c0861f63e8e8)
 
 Setup and Installation
